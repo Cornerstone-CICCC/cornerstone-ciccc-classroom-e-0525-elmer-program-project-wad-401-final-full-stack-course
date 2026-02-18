@@ -19,29 +19,6 @@
 5. **Instructor Approval**
    - Confirm your project idea with the instructor before proceeding.
 
-## Project Ideas from UI/UX Program Manager Victor
-
-### 1. Agora Printing
-
-- **Website:** [Agora Production](https://agoraproduction.ca) | [Framer Site](https://agoraprinting.framer.website/)
-- **Project Goal:** Migrate the website from Framer/Figma to Shopify.
-- **Client Requirements:**
-  - Order tracking and reordering functionality
-  - Quantity-based discounts
-  - Shipping cost calculations based on weight and quantity
-  - Open to meetings with students for clarification
-
-### 2. Driving School
-
-- **Website:** [VanCastro Driving School](https://vancastro.ca)
-- **Project Goal:** Develop a booking system for driving lessons.
-- **System Features:**
-
-  - Instructor-managed lessons across multiple locations
-  - Scheduling logic to account for travel time between lessons
-  - Payment processing, invoicing, and QuickBooks integration
-  - Client available for student meetings
-
 ## Project Requirements
 
 - **Full-Stack Application:**
@@ -140,15 +117,14 @@
 | ------- | ------------------------------------- |
 | **1**   | Project Kickoff & Planning            |
 | **2**   | Planning Report & Instructor Approval |
-| **3-6** | Development Phase                     |
-| **7**   | School Break                          |
-| **8-9** | Development Phase                     |
+| **3**   | School Break                          |
+| **4-9** | Development Phase                     |
 | **10**  | Testing & Polishing & Deployment      |
 | **11**  | Presentation Prep & Demo Day          |
 
 ## Demo Day
 
-### **📅 SAVE THE DATE: May 1st**
+### **📅 SAVE THE DATE**
 
 - Potential audiences: Friends, Family, Instructors, Students, Potential employers
 
