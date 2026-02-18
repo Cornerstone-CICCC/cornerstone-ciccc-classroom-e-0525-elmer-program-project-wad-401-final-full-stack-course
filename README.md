@@ -2,8 +2,7 @@
 
 ## Team Composition
 
-- Each group must have **4 to 6 members**, depending on project size, to ensure effective workload distribution.
-- Individual projects **will not be accepted**.
+- Each group must have **up to 6 members**, depending on project size, to ensure effective workload distribution.
 - Discuss and assign roles and responsibilities within the team.
 
 ## Choosing a Project
@@ -149,7 +148,7 @@
 
 ## Demo Day
 
-### **📅 SAVE THE DATE: May 2nd**
+### **📅 SAVE THE DATE: May 1st**
 
 - Potential audiences: Friends, Family, Instructors, Students, Potential employers
 
